@@ -92,7 +92,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
   ![image](https://github.com/marcosgarzon/landing-challenge-aa/assets/96453171/bf0325a2-bd20-446f-98d5-ba1e40e24a14)
   ![image](https://github.com/marcosgarzon/landing-challenge-aa/assets/96453171/ccd4ef0b-7d33-4235-a510-61e94d1a3feb)
   ![image](https://github.com/marcosgarzon/landing-challenge-aa/assets/96453171/90e65552-cd59-447a-9a30-ffb110f7542d)
-  ![image](https://github.com/marcosgarzon/landing-challenge-aa/assets/96453171/ee60406f-cd27-4fad-821e-5ed534118f68)
+  ![image](https://github.com/marcosgarzon/landing-challenge-aa/assets/96453171/f9476c97-540e-4a73-9551-80a969565e28)
   ![image](https://github.com/marcosgarzon/landing-challenge-aa/assets/96453171/a1d2466a-21ec-48dd-a519-4186446a4b7e)
   ![image](https://github.com/marcosgarzon/landing-challenge-aa/assets/96453171/8c978ee4-7186-4fd0-949e-0cd6c63cc7fa)
   ![image](https://github.com/marcosgarzon/landing-challenge-aa/assets/96453171/b7ed853e-9e3d-472f-8361-d1f9b4c56f9d)
